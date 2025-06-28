@@ -20,7 +20,7 @@ Auto Push GitHub Bot by [Telegram](https://t.me/GitHubAutoPushbot)
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/xsrazy/GitHub-Auto-Push-by-Telegram.git
+git clone https://github.com/rmndn/GitHub-Auto-Push-Telegram.git
 cd GitHub-Auto-Push-by-Telegram
 ```
 
